@@ -1,6 +1,9 @@
 title: Aljoša Milenković
 author: Aljoša Milenković
-url: https://AljosaMilenkovic.github.io # root address of the site
+url: "https://aljosamilenkovic.github.io"
+baseurl: ""
+remote_theme: abhinavs/moonwalk
+
 description: > 
 <img src="./ja.jpg" alt="Aljoša Milenković" style="max-width:200px;border-radius:50%;margin-bottom:1em;display:block;">
   Hi there! I'm a linguist with research interests in phonology, historical linguistics, metrics, dialectology, computational and corpus linguistics.
@@ -49,4 +52,3 @@ sass:
 
 plugins:
   - jekyll-feed
-  - jekyll-soopr-seo-tag
