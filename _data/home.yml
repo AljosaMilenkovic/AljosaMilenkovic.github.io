@@ -54,17 +54,16 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+  - title: Harvard Linguistics
+    url: https://linguistics.fas.harvard.edu/people/aljoša-milenković/
+  - title: Harvard IQSS
+    url: https://www.iq.harvard.edu/people/aljoša-milenković/
+  - title: Davis Center
+    url: https://daviscenter.fas.harvard.edu/about/people/aljosa-milenkovic/
+  - title: GitHub
+    url: https://github.com
+  - title: Academia.edu
+    url: https://harvard.academia.edu/AljošaMilenković/
 
 misc_entries:
   - title: this is an example vertical list
