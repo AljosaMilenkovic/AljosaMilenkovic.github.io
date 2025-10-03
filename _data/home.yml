@@ -1,12 +1,13 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: CV
+    url: /cv.pdf         # or /cv/ if you prefer a page instead of a PDF
+  - title: Papers
+    url: /papers/
+  - title: Presentations
+    url: /presentations/
+  - title: Teaching
+    url: /teaching/
 
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
