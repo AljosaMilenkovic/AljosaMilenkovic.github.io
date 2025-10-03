@@ -1,6 +1,8 @@
 navbar_entries:
+  - title: Home
+    url: /
   - title: CV
-    url: /cv.pdf         # or /cv/ if you prefer a page instead of a PDF
+    url: /cv/
   - title: Papers
     url: /papers/
   - title: Presentations
