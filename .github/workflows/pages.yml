@@ -1,7 +1,7 @@
-name: Deploy Jekyll to Pages
+name: Deploy Jekyll site to Pages
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -17,30 +17,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
         with:
-          ruby-version: '3.2'
-          bundler-cache: true
-
-      - name: Ensure Gemfile and deps
-        run: |
-          bundle init || true
-          grep -q 'gem "jekyll"' Gemfile || echo 'gem "jekyll"' >> Gemfile
-          grep -q 'gem "jekyll-remote-theme"' Gemfile || echo 'gem "jekyll-remote-theme"' >> Gemfile
-          grep -q 'gem "jekyll-feed"' Gemfile || echo 'gem "jekyll-feed"' >> Gemfile
-          bundle install
-
-      - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl ""
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+          source: ./
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: ./_site
 
   deploy:
     needs: build
@@ -49,6 +34,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
