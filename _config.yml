@@ -21,7 +21,7 @@ theme_config:
   appearance_toggle: true
   back_home_text: "home.."
   date_format: "%Y-%m-%d"
-  show_description: true
+  show_description: false
   show_navbar: true
   show_footer: true
   show_copyright: true
