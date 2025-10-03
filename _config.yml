@@ -1,7 +1,7 @@
 title: Aljoša Milenković
 author: Aljoša Milenković
 url: "https://aljosamilenkovic.github.io"
-baseurl: ""
+baseurl: ""                      # empty for user-site repos
 remote_theme: abhinavs/moonwalk
 
 description: > 
@@ -52,3 +52,4 @@ sass:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme          # needed when building via Actions
