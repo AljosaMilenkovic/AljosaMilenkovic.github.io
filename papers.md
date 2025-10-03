@@ -12,7 +12,8 @@ permalink: /papers/
 - **Milenković, Aljoša** (2025). “Hyperraising and copy raising are structurally different: experimental evidence from Serbian.” *Proceedings of the Linguistic Society of America* 10(1). [PDF](/hyperraising.pdf) · [DOI](https://doi.org/10.3765/plsa.v10i1.5938)
 - **Milenković, Aljoša** (2024). “Tone-sensitive vowel lengthening in BCMS monosyllables.” *Proceedings of the Fifty-ninth Annual Meeting of the Chicago Linguistic Society*, pp. 319–330. [PDF](/final.pdf) · [Slides](/presentations/another-title-slides.pdf)
 - **Milenković, Aljoša** (2023). “Towards a more comprehensive theory of tone-stress interaction.” *NELS* 53(2), pp. 209–218. [PDF](/nels.pdf)
-- **Milenković, Aljoša**. “Working title.” *Target journal:* *Journal Name*.
+- **Milenković, Aljoša** (2021). “Teorija optimalnosti u fonologiji.” (Optimality Theory in phonology) *Svet reči* 53(2), pp. 209–218. [PDF](/nels.pdf)
+- **Milenković, Aljoša** (2020). “Between semantics and phonological theories: The origin of.” (Optimality Theory in phonology) *Svet reči* 53(2), pp. 209–218. [PDF](/nels.pdf)
 
 ### Theses
 
@@ -21,4 +22,5 @@ permalink: /papers/
 
 ### Datasets and code
 
-- **Milenković, Aljoša** (2025). “Replication data for: *Hyperraising and copy raising are structurally different: experimental evidence from Serbian*.” Harvard Dataverse. [DOI](https://doi.org/10.7910/DVN/JHH7MQ)
+- **Milenković, Aljoša** (2025). “Replication data for: *Hyperraising and copy raising are structurally different: experimental evidence from Serbian*.” Harvard Dataverse, V4. [DOI](https://doi.org/10.7910/DVN/JHH7MQ)
+- **Milenković, Aljoša** (2025). "Replication Data for: *Superadditive cumulativity in categorical prosodic patterns: Prosodic minimality in Bosnian/Croatian/Montenegrin/Serbian*." Harvard Dataverse, V1. [DOI](https://doi.org/10.7910/DVN/1V64L2)
