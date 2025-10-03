@@ -4,7 +4,7 @@ title: Output
 permalink: /papers/
 ---
 
-# Papers
+### Papers
 
 - **Milenković, Aljoša** and Kevin Ryan. (submitted). “Stress-weight and stress-tone interaction in South Slavic folk meter.”  [PDF](/metrics.pdf)
 - **Milenković, Aljoša** (resubmitted). “Against strict stratum-internal transparency: within-stratum countershifting in Gallipoli Serbian.” Resubmitted to *Glossa: a journal of general linguistics*. [PDF](/final.pdf)
@@ -14,11 +14,11 @@ permalink: /papers/
 - **Milenković, Aljoša** (2023). “Towards a more comprehensive theory of tone-stress interaction.” *NELS* 53(2), pp. 209–218. [PDF](/nels.pdf)
 - **Milenković, Aljoša**. “Working title.” *Target journal:* *Journal Name*.
 
-# Theses
+### Theses
 
 - **Milenković, Aljoša** (in progress). “Metrical grammar: variation, cumulativity, and generalization.” Harvard University.
 - **Milenković, Aljoša** (2021). “Acoustic correlates of stress in the Kosovo-Resava dialect of Serbian.” (In Serbian) University of Belgrade. [PDF](/nels.pdf)
 
-# Datasets and code
+### Datasets and code
 
 - **Milenković, Aljoša** (2025). “Replication data for: *Hyperraising and copy raising are structurally different: experimental evidence from Serbian*.” Harvard Dataverse. [DOI](https://doi.org/10.7910/DVN/JHH7MQ)
