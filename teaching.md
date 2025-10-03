@@ -4,9 +4,20 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Courses
-- **LING 101: Intro to Linguistics** — syllabus: [PDF](/teaching/ling101-syllabus.pdf)
-- **Phonology II** — syllabus: [PDF](/teaching/phonology2-syllabus.pdf)
+### Harvard University
+- **LING 101: The Science of Language: An Introduction** — Fall 2023, TA for Tatyana Bondarenko. [sample materials](/teaching/ling101-syllabus.pdf)
+- **LING 108: Introduction to Historical Linguistics** — Fall 2023, TA for Jeremy Rau. [sample materials](/teaching/phonology2-syllabus.pdf)
+- **LING 83: Language, Structure, and Cognition** — Spring 2024, TA for Kathryn Davidson.
+- **LING 105: Sounds of the Language** — Spring 2024, TA for Kathryn Franich. [sample materials](/teaching/phonology2-syllabus.pdf)
+- **LING 98A: Group Tutorial - Junior Year: LaTeX for linguists** — Fall 2024, Primary instructor. [syllabus](/teaching/ling101-syllabus.pdf)
+- **LING 118: Historical Linguistics** — Fall 2024, TA for Jay Jasanoff.
+- **LING 102: Sentence Structure** — Spring 2025, TA for Kaden Holladay.
+- **LING 241A: Practicum in Linguistics** — Spring 2025, TA for Jonathan Bobaljik.
 
-### Office hours / policies
-Short blurb here.
+### Harvard Summer School 
+- **LING 120-S:  Introduction toHistorical Linguistics** — Summer 2024, TA for Jeremy Rau. [sample materials](/teaching/ling101-syllabus.pdf)
+- **LING 120-S:  Introduction toHistorical Linguistics** — Summer 2025, TA for Jeremy Rau. [sample materials](/teaching/ling101-syllabus.pdf)
+
+### Belgrade Winter School 
+- **Gothic: An Introduction** — Minicourse, Winter 2020, Primary instructor.
+- **Selected Topics in Indo-European Phonology** — Minicourse, Winter 2020, Primary instructor.
