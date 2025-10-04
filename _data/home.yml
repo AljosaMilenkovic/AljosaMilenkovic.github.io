@@ -12,31 +12,35 @@ navbar_entries:
 
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: "Variation & Cumulativity"
+    url: /research/variation/
+    desc: >
+      <img class="card-bg" src="/assets/interests/variation.png" alt="Variation background">
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: "Prosody"
+    url: /research/prosody/
+    desc: >
+      <img class="card-bg" src="/assets/interests/prosody.png" alt="Prosody background">
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: "Metrics"
+    url: /research/metrics/
+    desc: >
+      <img class="card-bg" src="/assets/interests/metrics.jpeg" alt="Metrics background">
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: "Dialectology"
+    url: /research/dialectology/
+    desc: >
+      <img class="card-bg" src="/assets/interests/dialectology.webp" alt="Dialectology background">
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: "Phonology–Morphology Interface"
+    url: /research/phonology-morphology/
+    desc: >
+      <img class="card-bg" src="/assets/interests/morphology.png" alt="Phonology–Morphology background">
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: "Diachronic Linguistics"
+    url: /research/diachrony/
+    desc: >
+      <img class="card-bg" src="/assets/interests/diachrony.png" alt="Diachrony background">
 
 old_project_entries:
   - title: Soopr
