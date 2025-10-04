@@ -14,33 +14,27 @@ navbar_entries:
 project_entries:
   - title: "Variation & Cumulativity"
     url: /research/variation/
-    desc: >
-      <img class="card-bg" src="/assets/interests/variation.png" alt="Variation background">
+    img: /assets/interests/variation.png
 
   - title: "Prosody"
     url: /research/prosody/
-    desc: >
-      <img class="card-bg" src="/assets/interests/prosody.png" alt="Prosody background">
+    img: /assets/interests/prosody.png
 
   - title: "Metrics"
     url: /research/metrics/
-    desc: >
-      <img class="card-bg" src="/assets/interests/metrics.jpeg" alt="Metrics background">
+    img: /assets/interests/metrics.jpeg
 
   - title: "Dialectology"
     url: /research/dialectology/
-    desc: >
-      <img class="card-bg" src="/assets/interests/dialectology.webp" alt="Dialectology background">
+    img: /assets/interests/dialectology.webp
 
   - title: "Phonology–Morphology Interface"
     url: /research/phonology-morphology/
-    desc: >
-      <img class="card-bg" src="/assets/interests/morphology.png" alt="Phonology–Morphology background">
+    img: /assets/interests/morphology.png
 
   - title: "Diachronic Linguistics"
     url: /research/diachrony/
-    desc: >
-      <img class="card-bg" src="/assets/interests/diachrony.webp" alt="Diachrony background">
+    img: /assets/interests/diachrony.webp
 
 old_project_entries:
   - title: Soopr
