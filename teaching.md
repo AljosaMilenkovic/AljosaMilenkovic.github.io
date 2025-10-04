@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ### Harvard University
-- **LING 101: The Science of Language: An Introduction** — Fall 2023, TA for Tatyana Bondarenko. [sample materials](/teaching/ling101-syllabus.pdf)
+- **LING 101: The Science of Language: An Introduction** — Fall 2023, TA for Tatyana Bondarenko. [sample materials](https://drive.google.com/drive/folders/12IXofvUfzvofoZAtEdlj1-wJvQcokXaP?dmr=1&ec=wgc-drive-hero-goto)
 - **LING 108: Introduction to Historical Linguistics** — Fall 2023, TA for Jeremy Rau. [sample materials](/teaching/phonology2-syllabus.pdf)
 - **LING 83: Language, Structure, and Cognition** — Spring 2024, TA for Kathryn Davidson.
 - **LING 105: Sounds of the Language** — Spring 2024, TA for Kathryn Franich. [sample materials](/teaching/phonology2-syllabus.pdf)
@@ -15,8 +15,8 @@ permalink: /teaching/
 - **LING 241A: Practicum in Linguistics** — Spring 2025, TA for Jonathan Bobaljik.
 
 ### Harvard Summer School 
-- **LING 120-S:  Introduction toHistorical Linguistics** — Summer 2024, TA for Jeremy Rau. [sample materials](/teaching/ling101-syllabus.pdf)
-- **LING 120-S:  Introduction toHistorical Linguistics** — Summer 2025, TA for Jeremy Rau. [sample materials](/teaching/ling101-syllabus.pdf)
+- **LING 120-S:  Introduction to Historical Linguistics** — Summer 2024, TA for Jeremy Rau. [sample materials](/teaching/ling101-syllabus.pdf)
+- **LING 120-S:  Introduction to Historical Linguistics** — Summer 2025, TA for Jeremy Rau. [sample materials](/teaching/ling101-syllabus.pdf)
 
 ### Belgrade Winter School 
 - **Gothic: An Introduction** — Minicourse, Winter 2020, Primary instructor.
