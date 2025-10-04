@@ -15,7 +15,7 @@ In collaboration with Kevin Ryan, I investigate complex prosodic interactions in
 <p align="center">
   <img src="/wug.png" alt="Caption" width="400">
   <br>
-  <em>Caption</em>
+  <em>Effects of pitch accent (stress and tone) and syllable weight in South Slavic folk meter.</em>
 </p>
 
-My dissertation examines the effects of prosodic factors such as word size, vowel length, and syllable structure on word order.
+My dissertation examines the effects of prosodic factors such as word size, vowel length, and syllable structure on word order. I am particularly interested in the so-called **end weight effects**, whereby longer/heavier elements tend to be preferred at the end of larger prosodic constituents (e.g. *apples and oranges* > *oranges and apples*).
