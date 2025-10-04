@@ -4,7 +4,7 @@ navbar_entries:
   - title: CV
     url: /cv/
   - title: Research
-    url: /presentations/
+    url: /research/
   - title: Output
     url: /papers/
   - title: Teaching
