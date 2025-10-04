@@ -28,3 +28,16 @@ permalink: /papers/
 
 - **Milenković, Aljoša** (2025b). “Replication data for: *Hyperraising and copy raising are structurally different: experimental evidence from Serbian*.” Harvard Dataverse, V4. [DOI](https://doi.org/10.7910/DVN/JHH7MQ)
 - **Milenković, Aljoša** (2025a). "Replication Data for: *Superadditive cumulativity in categorical prosodic patterns: Prosodic minimality in Bosnian/Croatian/Montenegrin/Serbian*." Harvard Dataverse, V1. [DOI](https://doi.org/10.7910/DVN/1V64L2)
+
+### Selected presentations 
+
+See my CV for the comprehensive list.
+
+- *Stress-tone-weight interaction in poetic meter: South Slavic folk meter revisited*. Talk at AMP 2025, UC Berkeley (with Kevin Ryan, Harvard) [slides](/amp25.pdf)
+- *OCP-place beyond phonotactics: sandhi place restrictions in Croatian*. Talk at the 31st Manchester Phonology Meeting. [slides](/mfm31.pdf)
+- *Hyperraising and copy raising are structurally different: against the unified base-generation account*. Talk at CLS 61. [slides](/cls61.pdf)
+- *Gradient similarity in antigemination: evidence from allomorph selection*. Talk at OCP 22, University of Amsterdam. [slides](/ocp.pdf)
+- *Inversion and remorphologization in the Šatrovački language game*. Talk at RFP 2024, Université de Picardie à Amiens (with Andrew Nevins, UCL). [slides](/rfp.pdf)
+- *Stratification is not enough: Within-stratum countershifting in Gallipoli Serbian*. Talk at FASL 33, Dalhousie University, Halifax, NS. [slides](/fasl.pdf)
+- *Sonority thresholds and phonological change: Presonorant Lengthening in BCMS revisited*. Talk at ESHP 6, The University of Edinburgh. [slides](/eshp.pdf)
+- *How powerful is too powerful? Constraint conjunction in weighted constraint grammar and its typological consequences*. Talk at AMP 2023, Johns Hopkins University (Zoom). [slides](/amp23.pdf)
