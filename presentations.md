@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Presentations
+title: Research
 permalink: /presentations/
 ---
 
-### Talks & Posters
-- **Talk title** — Conference (Place, Year). [Slides](/presentations/talk-title-slides.pdf)
-- **Poster title** — Workshop (Year). [Poster](/presentations/poster-title.pdf)
-
+{% include card_list.html collection=site.data.home.project_entries %}
