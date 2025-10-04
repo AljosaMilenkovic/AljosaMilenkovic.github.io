@@ -5,21 +5,18 @@ permalink: /research/
 ---
 
 <style>
-  /* --- GRID: fixed columns so rows are consistent --- */
+  /* --- GRID: 3 cards per row on laptops/desktops --- */
   .page-content .card-list{
-    display:grid;
-    gap: 1.25rem; /* space between cards */
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: repeat(3, 1fr);   /* default: 3 columns */
   }
-  /* Desktop: 3 equal columns */
-  @media (min-width: 1024px){
-    .page-content .card-list{ grid-template-columns: repeat(3, 1fr); }
-  }
-  /* Tablets: 2 columns */
-  @media (min-width: 640px) and (max-width: 1023px){
+  /* Downshift to 2 columns on narrower screens */
+  @media (max-width: 900px){
     .page-content .card-list{ grid-template-columns: repeat(2, 1fr); }
   }
   /* Phones: 1 column */
-  @media (max-width: 639px){
+  @media (max-width: 560px){
     .page-content .card-list{ grid-template-columns: 1fr; }
   }
 
