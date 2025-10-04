@@ -1,6 +1,6 @@
-<div class="entries">
+<div class="card-list">
   {% for item in include.collection %}
-    <a class="entry" href="{{ item.url | relative_url }}">
+    <a class="card" href="{{ item.url | relative_url }}">
       {% if item.img %}
         <img class="card-bg" src="{{ item.img | relative_url }}" alt="">
       {% endif %}
