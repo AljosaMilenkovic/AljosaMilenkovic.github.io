@@ -3,10 +3,10 @@ navbar_entries:
     url: /
   - title: CV
     url: /cv/
+  - title: Research
+    url: /presentations/
   - title: Output
     url: /papers/
-  - title: Presentations
-    url: /presentations/
   - title: Teaching
     url: /teaching/
 
