@@ -5,7 +5,22 @@ permalink: /research/variation/
 ---
 
 ### Variation
-Add something here.
+
+Variation has come to the forefront of phonological theory over the past several decades. It raises important questions, including:
+
+- How can generative models of phonology accommodate variable outputs, and what kinds of mechanisms are required to do so?
+- How is phonological knowledge acquired in the face of variability in the input data?
+
+My research addresses these questions primarily through quantitative analyses of corpus data and computational learning simulations.
+Variation also raises important typological questions: what patterns of variation are possible across languages, and what do different theoretical frameworks predict to be possible? A growing body of research has approached variation from this perspective. My dissertation contributes to this line of inquiry by examining the factors that drive word order variation in metered verse.
+
+<p align="center">
+  <img src="/variation.png" alt="Variation plot" width="500">
+  <br>
+  <em>Sample variable data from my dissertation and predictions of three theoretical frameworks. The data show a characteristic family-of-sigmoids shape reminiscent of a wug.</em>
+</p>
+
+I also investigate how prosodic factors affect the production frequency of line types in poetry. This issue has major implications for the study of variation, given that these effects tend to be gradient and probabilistic rather than categorical and deterministic.
 
 ### Cumulativity
 
