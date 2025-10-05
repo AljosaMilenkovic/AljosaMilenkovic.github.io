@@ -4,7 +4,7 @@ title: Metrics
 permalink: /research/metrics/
 ---
 
-Phonological theory and metrics are fundamentally interconnected. My research explores this the connection between meter and phonology using statistics, computational methods and Maxent modeling. A central methodological goal of my recent work has been to test different ways of incorporating ordinary-language baselines into models of metrical grammar, which helps disentangle true metrical preferences from the effects of ordinary-language phonology and lexical statistics.
+Phonological theory and metrics are fundamentally interconnected. My research explores the connection between meter and phonology using statistics, computational methods and Maxent modeling. A central methodological goal of my recent work has been to test different ways of incorporating ordinary-language baselines into Maxent models of metrical data, which helps disentangle true metrical preferences from the effects of ordinary-language phonology and lexical statistics.
 
 I am particularly interested in oral folk poetry, mainly from the perspective of linguistic theory. Oral traditions offer a unique window into how humans organize language under strict (and sometimes conflicting) formal and cognitive constraints. At the same time, oral composition tells us a great deal about language itself: oral verse is a rule-governed system, governed by a mental device that allows poets to generate and evaluate the well-formedness of verse forms. Often illiterate and lacking formal education in metrics, folk poets acquire and transmit the *metrical grammar* across generations, much like native speakers acquire and transmit language.
 
