@@ -10,5 +10,3 @@ permalink: /cv/
 - MA, Harvard University (2023)
 
 [Download CV (PDF)](/cv.pdf){:target="_blank" rel="noopener"}
-
-<object data
