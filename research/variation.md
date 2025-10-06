@@ -24,7 +24,7 @@ I also investigate how prosodic factors affect the production frequency of line 
 
 ### Cumulativity
 
-A unifying theme across my research projects is cumulativity in phonology, the combined effect of multiple phonological factors or multiple instances of a single factor on the well-formedness, probability, or acceptability of linguistic structures. For the past two decades, cumulativity has figured as a testing ground for competing constraint-based frameworks in phonology. My research on natural language prosody and metered verse shows that cumulative interactions between phonological constraints are ubiquitous, as predicted by Harmonic Grammar, but not by (Optimality Theory)[https://en.wikipedia.org/wiki/Optimality_theory].
+A unifying theme across my research projects is cumulativity in phonology, the combined effect of multiple phonological factors or multiple instances of a single factor on the well-formedness, probability, or acceptability of linguistic structures. For the past two decades, cumulativity has figured as a testing ground for competing constraint-based frameworks in phonology. My research on natural language prosody and metered verse shows that cumulative interactions between phonological constraints are ubiquitous, as predicted by [Harmonic Grammar](https://en.wikipedia.org/wiki/Harmonic_grammar), but not by [Optimality Theory](https://en.wikipedia.org/wiki/Optimality_theory).
 
 I am particularly interested in superlinear cumulativity, where the joint contribution of interacting constraints exceeds the sum of their independent contributions. Here’s a nice example of superlinearity from my dissertation:
 
