@@ -38,6 +38,6 @@ See my CV for the comprehensive list.
 - *Hyperraising and copy raising are structurally different: against the unified base-generation account*. Talk at CLS 61. [slides](/cls61.pdf)
 - *Gradient similarity in antigemination: evidence from allomorph selection*. Talk at OCP 22, University of Amsterdam. [slides](/ocp.pdf)
 - *Inversion and remorphologization in the Šatrovački language game*. Talk at RFP 2024, Université de Picardie à Amiens (with Andrew Nevins, UCL). [slides](/rfp.pdf)
-- *Stratification is not enough: Within-stratum countershifting in Gallipoli Serbian*. Talk at FASL 33, Dalhousie University, Halifax, NS. [slides](/fasl.pdf)
+- *Stratification is not enough: Within-stratum countershifting in Gallipoli Serbian*. Talk at FASL 33, Dalhousie University, Halifax, NS. [slides](/fasl33.pdf)
 - *Sonority thresholds and phonological change: Presonorant Lengthening in BCMS revisited*. Talk at ESHP 6, The University of Edinburgh. [slides](/eshp.pdf)
 - *How powerful is too powerful? Constraint conjunction in weighted constraint grammar and its typological consequences*. Talk at AMP 2023, Johns Hopkins University (Zoom). [slides](/amp23.pdf)
