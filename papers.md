@@ -4,7 +4,7 @@ title: Output
 permalink: /papers/
 ---
 
-### Papers
+### Articles
 
 - **Milenković, Aljoša** and Kevin Ryan. (submitted). “Stress-weight and stress-tone interaction in South Slavic folk meter.”  [PDF](/metrics.pdf)
 - **Milenković, Aljoša** (forthcoming). “Superadditive cumulativity in categorical prosodic patterns: Prosodic minimality in Bosnian/Croatian/Montenegrin/Serbian.” *Phonology*. [PDF](/final.pdf)
