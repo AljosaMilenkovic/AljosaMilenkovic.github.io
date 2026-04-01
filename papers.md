@@ -6,6 +6,7 @@ permalink: /papers/
 
 ### Articles
 
+- **Milenković, Aljoša**. (submitted). “(Hyper)raising in Serbian: Experimental evidence and theoretical considerations.”  [PDF](/syntax.pdf)
 - **Milenković, Aljoša** and Kevin Ryan. (submitted). “Stress-weight and stress-tone interaction in South Slavic folk meter.”  [PDF](/metrics.pdf)
 - **Milenković, Aljoša** (forthcoming). “Superadditive cumulativity in categorical prosodic patterns: Prosodic minimality in Bosnian/Croatian/Montenegrin/Serbian.” *Phonology*. [PDF](/final.pdf)
 - **Milenković, Aljoša** (2025). “Against strict stratum-internal transparency: Within-stratum countershifting in Gallipoli Serbian.” *Glossa: a journal of general linguistics* 10(1), 1-47. [PDF](/opacity.pdf) · [DOI](https://doi.org/10.16995/glossa.23107)
