@@ -9,4 +9,4 @@ permalink: /cv/
 - MA, University of Belgrade (2021)
 - MA, Harvard University (2023)
 
-[Download CV (PDF)](/cv.pdf){:target="_blank" rel="noopener"}
+[Download CV (PDF)](/aljosa milenkovic.pdf){:target="_blank" rel="noopener"}
