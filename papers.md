@@ -6,6 +6,7 @@ permalink: /papers/
 
 ### Articles
 
+- **Milenković, Aljoša**. (2026). “The syntax–phonology interface in poetic meter: Phonologically conditioned syntactic variation in South Slavic oral folk meter.” Manuscript. [PDF](/syntax phonology.pdf)
 - **Milenković, Aljoša**. (submitted). “(Hyper)raising in Serbian: Experimental evidence and theoretical considerations.”  [PDF](/syntax.pdf)
 - **Milenković, Aljoša** and Kevin Ryan. (submitted). “Stress-weight and stress-tone interaction in South Slavic folk meter.”  [PDF](/metrics.pdf)
 - **Milenković, Aljoša** (2026). “Superadditive cumulativity in categorical prosodic patterns: Prosodic minimality in Bosnian/Croatian/Montenegrin/Serbian.” *Phonology* 43 e4, 1-33. [PDF](/superadditive cumulativity.pdf) · [DOI](https://doi.org/10.1017/S0952675726100311) · [replication data](https://doi.org/10.7910/DVN/1V64L2) · [supplementary materials](https://doi.org/10.1017/S0952675726100311.sm001)
