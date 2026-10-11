@@ -4,6 +4,9 @@ title: CV
 permalink: /cv/
 ---
 
+### Employment
+- Visiting Assistant Professor, University of Southern California (2026-) 
+
 ### Education
 - BA, University of Belgrade (2020) 
 - MA, University of Belgrade (2021)
