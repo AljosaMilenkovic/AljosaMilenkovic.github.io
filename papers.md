@@ -4,11 +4,16 @@ title: Output
 permalink: /papers/
 ---
 
+### Theses
+
+-  (2026). “Metrical grammar: variation, cumulativity, and generalization at the syntax-phonology interface.” Doctoral dissertation, Harvard University. [PDF](/thesis.pdf)
+-  (2021). “Acoustic correlates of stress in the Kosovo-Resava dialect of Serbian.” (In Serbian) MA Thesis, University of Belgrade. [PDF](/ma.pdf)
+
 ### Articles
 
 - **Milenković, Aljoša**. (2026). “The syntax–phonology interface in poetic meter: Phonologically conditioned syntactic variation in South Slavic oral folk meter.” Manuscript. [PDF](/syntax phonology.pdf)
-- **Milenković, Aljoša**. (submitted). “(Hyper)raising in Serbian: Experimental evidence and theoretical considerations.”  [PDF](/syntax.pdf)
-- **Milenković, Aljoša** and Kevin Ryan. (submitted). “Stress-weight and stress-tone interaction in South Slavic folk meter.”  [PDF](/metrics.pdf)
+- **Milenković, Aljoša**. (under revision). “(Hyper)raising in Serbian: Experimental evidence and theoretical considerations.” *Journal of Slavic linguistics* [PDF](/syntax.pdf)
+- **Milenković, Aljoša** and Kevin Ryan. (accepted). “Stress-weight and stress-tone interaction in South Slavic folk meter.” *Language* [PDF](/metrics.pdf)
 - **Milenković, Aljoša** (2026). “Superadditive cumulativity in categorical prosodic patterns: Prosodic minimality in Bosnian/Croatian/Montenegrin/Serbian.” *Phonology* 43 e4, 1-33. [PDF](/superadditive cumulativity.pdf) · [DOI](https://doi.org/10.1017/S0952675726100311) · [replication data](https://doi.org/10.7910/DVN/1V64L2) · [supplementary materials](https://doi.org/10.1017/S0952675726100311.sm001)
 - **Milenković, Aljoša** (2025). “Against strict stratum-internal transparency: Within-stratum countershifting in Gallipoli Serbian.” *Glossa: a journal of general linguistics* 10(1), 1-47. [PDF](/opacity.pdf) · [DOI](https://doi.org/10.16995/glossa.23107)
 - **Milenković, Aljoša** (2025). “Hyperraising and copy raising are structurally different: experimental evidence from Serbian.” *Proceedings of the Linguistic Society of America* 10(1). [PDF](/hyperraising.pdf) · [DOI](https://doi.org/10.3765/plsa.v10i1.5938) · [replication data](https://doi.org/10.7910/DVN/JHH7MQ)
@@ -20,11 +25,6 @@ permalink: /papers/
 - **Milenković, Aljoša** (2019a). “Archaisms and innovations in Polabian phonology: Some comparative remarks.” *Anali Filološkog fakulteta* 31(1), pp. 311–330. [DOI](https://doi.org/10.18485/analiff.2019.31.1.16)
 - **Milenković, Aljoša** (2018). “Serbo-Croatian *krd*(*o*) 'herd'.” *Zbornik Matice srpske za filologiju i lingvistiku* 61(2), pp. 7–20. [PDF](/zbms.pdf)
 - **Milenković, Aljoša** (2017). “Greek einai and gignesthai in the Old Church Slavonic translation of the Gospel of John.” (In Serbian) *Lucida intervalla* 46, pp. 127–146. [url](https://www.ceeol.com/search/article-detail?id=1326249)
-
-### Theses
-
-- **Milenković, Aljoša** (in progress). “Metrical grammar: variation, cumulativity, and generalization.” Doctoral dissertation, Harvard University.
-- **Milenković, Aljoša** (2021). “Acoustic correlates of stress in the Kosovo-Resava dialect of Serbian.” (In Serbian) MA Thesis, University of Belgrade. [PDF](/ma.pdf)
 
 ### Selected presentations 
 
