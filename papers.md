@@ -6,7 +6,7 @@ permalink: /papers/
 
 ### Theses
 
--  (2026). “Metrical grammar: Variation, cumulativity, and generalization at the syntax-phonology interface.” Doctoral dissertation, Harvard University. [PDF](/thesis.pdf)
+-  (2026). “Metrical grammar: Variation, gradience, and cumulativity at the syntax-phonology interface.” Doctoral dissertation, Harvard University. [PDF](/thesis.pdf)
 -  (2021). “Acoustic correlates of stress in the Kosovo-Resava dialect of Serbian.” (In Serbian) MA Thesis, University of Belgrade. [PDF](/ma.pdf)
 
 ### Articles
