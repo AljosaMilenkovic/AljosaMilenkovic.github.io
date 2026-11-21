@@ -4,6 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
+### University of Southern California
+- **LING 110: In a Word** — Fall 2026, Primary instructor (gen ed course). [syllabus](/110.pdf)
+- **LING 631: Seminar in Phonological Theory: Variation and Gradience in Phonology** — Fall 2026, Primary instructor (graduate seminar).
+- **LING 301: Introduction to Phonology and Morphology** — Spring 2027, Primary instructor (undergraduate course). 
+- **LING 531B: Phonology** — Spring 2027, Primary instructor (graduate course).
+
+
 ### Harvard University
 - **LING 101: The Science of Language: An Introduction** — Fall 2023, TA for Tatyana Bondarenko. [sample materials](https://drive.google.com/drive/folders/12IXofvUfzvofoZAtEdlj1-wJvQcokXaP?dmr=1&ec=wgc-drive-hero-goto)
 - **LING 108: Introduction to Historical Linguistics** — Fall 2023, TA for Jeremy Rau.
